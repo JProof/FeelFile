@@ -1,0 +1,21 @@
+{
+  "name": "JProof/FeelFile",
+  "description": "Testing only! FeelFile is an Fileorganizer",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "JProof(romacron)",
+      "email": "dev@jproof.de"
+    }
+  ],
+  "require": {
+    "php": "<= 7",
+    "joomla/data": "1.2.0",
+    "joomla/filesystem": "1.3.1",
+    "hashids/hashids": "2.0.3",
+    "monolog/monolog": "1.22.0",
+    "joomla/uri": "1.1.1",
+    "joomla/image": "1.3.0"
+  }
+}
